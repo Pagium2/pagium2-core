@@ -1,0 +1,8 @@
+{{{unit name="meta_a"  }}}
+{{{unit name="base_css_a"  }}}
+{{{unit name="wap_ad_a"  }}}
+{{{unit name="wap_banner_a"  }}}
+{{{unit name="wap_item_x4" data="data_2"}}}
+{{{unit name="wap_item_x4" data="data_3"}}}
+{{{unit name="wap_tab_text" isparent }}}
+{{{unit name="wap_tab_text" isparent data="data_1"}}}

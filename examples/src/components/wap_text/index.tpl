@@ -1,0 +1,1 @@
+<div class="wap_text"><%=text%></div>
